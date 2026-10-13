@@ -1,0 +1,6 @@
+{
+  "name": "Anchor & Grace",
+  "description": "An intentional companion for following Jesus, daily surrender, lived recovery, and outward service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
